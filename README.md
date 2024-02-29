@@ -1,12 +1,14 @@
 # react-openai-vision-app-acorn
-This is the UI for building out our Vision App.
 
-This project is made for tutorial purposes and following along using an Acorn.io acorn.
+React OpenAI Vision Project.
 
-We will start up this project so that everyone can start off in the same place and have the same dependency versions. Once everyone has deployed their acorn, we can continue coding the backend out together.
+Uses OpenAI Vision to Analyze image.
 
-<a href="https://acorn.io/run/index.docker.io/aniakubow/react-openai-vision-app-acorn:dev?ref=kubowania"><img src="https://acorn.io/v1-ui/run/badge?image=index.docker.io+aniakubow+react-openai-vision-app-acorn:dev&ref=kubowania"></a>
+For example, upload an image of a person, give OpenAI assitance a prompt like "Is person is wearing a hat?"
+The OpenAI assitance would respond to the prompt.
 
+
+![Screenshot](./public/screenshot.png)
 
 
 
